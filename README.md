@@ -6,8 +6,8 @@ This repository accompanies our EMBC 2026 paper draft: *Learning-Based CNN Bound
 ## Paper
 - Title: Learning-Based CNN Boundary Prediction with Leak-Free Evaluation in Brain Tumor MRI
 - Authors: Vikranth Singh, Soumyasanta Laha
-- Status: [submitted / draft / under review]
-- PDF: [add file path or link, e.g., `paper/EMBC_2026.pdf`]
+- Status:  [under review]
+- PDF: [https://drive.google.com/file/d/1HdhiAAKSp8NzPNnpiMexoOpN2GBYvMhR/view?usp=sharing]
 
 If you use this code/results, please cite:
 ```bibtex
